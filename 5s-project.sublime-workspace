@@ -1,0 +1,1136 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Detail",
+				"Detail_ID"
+			],
+			[
+				"Sub",
+				"Subsect_ID"
+			],
+			[
+				"sub",
+				"subsections"
+			],
+			[
+				"subsec",
+				"subsect_dept_detail"
+			],
+			[
+				"De",
+				"DETAILS\tTag"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"dept",
+				"$dept_id〔variable〕"
+			],
+			[
+				"Subsec",
+				"Subsect_Dept_DetaiL"
+			],
+			[
+				"Route",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"Fac",
+				"Fact_Sect"
+			],
+			[
+				"sele",
+				"selected=〔attribute〕"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Fact",
+				"Fact_ID"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"fact",
+				"fact_sect"
+			],
+			[
+				"A",
+				"App"
+			],
+			[
+				"els",
+				"else〔keyword〕"
+			],
+			[
+				"facto",
+				"factory"
+			],
+			[
+				"fac",
+				"$fact_sect〔variable〕"
+			],
+			[
+				"secti",
+				"sections"
+			],
+			[
+				"depart",
+				"departments"
+			],
+			[
+				"co",
+				"compact"
+			],
+			[
+				"for",
+				"foreach\tblade-foreach"
+			],
+			[
+				"Sec",
+				"Section〔namespace〕"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"Depart",
+				"Department〔namespace〕"
+			],
+			[
+				"Department",
+				"DepartmentRequest〔namespace〕"
+			],
+			[
+				"admin",
+				"admin.department.list"
+			],
+			[
+				"Depa",
+				"DepartmentRequest"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"fa",
+				"$fact〔variable〕"
+			],
+			[
+				"Fa",
+				"FactoryRequest"
+			],
+			[
+				"txt",
+				"txtHoTen"
+			],
+			[
+				"re",
+				"restful.add"
+			],
+			[
+				"rest",
+				"restful.list"
+			],
+			[
+				"res",
+				"restful.add"
+			],
+			[
+				"id",
+				"$id〔variable〕"
+			],
+			[
+				"Use",
+				"Users"
+			],
+			[
+				"Login",
+				"LoginRequest"
+			],
+			[
+				"Hash",
+				"Hash::make\tHash the given value."
+			],
+			[
+				"AuthCon",
+				"Auth\\AuthController"
+			],
+			[
+				"Regis",
+				"RegisterRequest"
+			],
+			[
+				"Thanh",
+				"ThanhVienRequest〔namespace〕"
+			],
+			[
+				"val",
+				"$value〔variable〕"
+			],
+			[
+				"respo",
+				"response〔function〕"
+			],
+			[
+				"arr",
+				"$arr〔variable〕"
+			],
+			[
+				"Response",
+				"Response::json\tCreate a JSON Response"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"ul",
+				"ul\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"printf",
+				"print_r〔function〕"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"define",
+				"defined"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"control",
+				"$controllerObject〔variable〕"
+			],
+			[
+				"die",
+				"die〔keyword〕"
+			],
+			[
+				"contr",
+				"$controllerObject〔variable〕"
+			],
+			[
+				"requir",
+				"require_once〔function〕"
+			],
+			[
+				"cla",
+				"class\tclass …"
+			],
+			[
+				"clas",
+				"class〔keyword〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "5s-project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 188,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Subsect_Dept_DetailController.php",
+			"settings":
+			{
+				"buffer_size": 1867,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Fact_SectController.php",
+			"settings":
+			{
+				"buffer_size": 3010,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 7738,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/subsect_dept_detail/list.blade.php",
+			"settings":
+			{
+				"buffer_size": 8414,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 241.0,
+		"last_filter": "laravel reque",
+		"selected_items":
+		[
+			[
+				"laravel reque",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"laravel model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"laravel Re",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"laravel re",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"laravel controller",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"laravel requ",
+				"Laravel Artisan 5: Make:Request"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"laravel mig",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"laravel contr",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"laravel contro",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"laravel cach",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"laravel Contro",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"laravel mode",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"laravel Con",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/5s",
+		"/C/xampp/htdocs/5s/app",
+		"/C/xampp/htdocs/5s/app/Http",
+		"/C/xampp/htdocs/5s/app/Http/Controllers",
+		"/C/xampp/htdocs/5s/app/Http/Middleware",
+		"/C/xampp/htdocs/5s/app/Http/Requests",
+		"/C/xampp/htdocs/5s/resources",
+		"/C/xampp/htdocs/5s/resources/views",
+		"/C/xampp/htdocs/5s/resources/views/admin",
+		"/C/xampp/htdocs/5s/resources/views/admin/subsect_dept_detail",
+		"/C/xampp/htdocs/5s/resources/views/admin/subsection"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/5s/app/Subsect_Dept_Detail.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/subsection/add.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/subsect_dept_detail/add.blade.php",
+		"/C/xampp/htdocs/5s/app/Http/routes.php",
+		"/C/Users/qa11.HANSOLLVT.000/Desktop/laravel-docs-vn-master/eloquent-relationships.md",
+		"/C/xampp/htdocs/5s/resources/views/admin/subsect_dept_detail/list.blade.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/DepartmentController.php",
+		"/C/Users/qa11.HANSOLLVT.000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/5s/app/Subsection.php",
+		"/C/Users/qa11.HANSOLLVT.000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/xampp/htdocs/5s/app/abc.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/pages/sidebar.blade.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/Subsect_Dept_Detail_WeekController.php",
+		"/C/xampp/htdocs/5s/app/Subsect_Dept_Detail_Week.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/Fact_SectController.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/master.blade.php",
+		"/C/xampp/htdocs/5s/app/SewingLine.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/SewingLineController.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/sewingline/list.blade.php",
+		"/C/xampp/htdocs/5s/app/Section.php",
+		"/C/xampp/htdocs/5s/app/SewingLines",
+		"/C/xampp/htdocs/5s/resources/views/admin/test.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/fact_sect/edit.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/fact_sect/list.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/fact_sect/add.blade.php",
+		"/C/xampp/htdocs/5s/app/Fact_Sect.php",
+		"/C/xampp/htdocs/5s/app/Factory.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/SubsectionController.php",
+		"/C/xampp/htdocs/5s/app/Http/Requests/Fact_SectRequest.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/detail/add.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/subsection/list.blade.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/DetailController.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/detail/edit.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/department/edit.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/factory/edit.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/subsection/edit.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/section/edit.blade.php",
+		"/C/xampp/htdocs/5s/app/Http/Requests/DetailRequest",
+		"/C/Users/qa11.HANSOLLVT.000/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/C/xampp/htdocs/5s/app/Detail.php",
+		"/C/xampp/htdocs/5s/app/Http/Requests/DepartmentRequest.php",
+		"/C/xampp/htdocs/5s/app/Http/Requests/FactoryRequest.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/detail/list.blade.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/SectionController.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/section/add.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/section/list.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/department/list.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/department/add.blade.php",
+		"/C/xampp/htdocs/5s/app/Department.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/factory/add.blade.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/FactoryController.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/factory/list.blade.php",
+		"/C/Users/qa11.HANSOLLVT/AppData/Local/Temp/Rar$DIa0.516/User.php",
+		"/C/Users/qa11.HANSOLLVT/AppData/Local/Temp/Rar$DIa0.518/Product.php",
+		"/C/Users/qa11.HANSOLLVT/AppData/Local/Temp/Rar$DIa0.772/ProductsController.php",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Support/Arr.php",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php",
+		"/C/xampp/htdocs/5s/app/Providers/RouteServiceProvider.php",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+		"/C/xampp/htdocs/5s/app/Http/Requests/SectionRequest.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php",
+		"/C/Users/qa11.HANSOLLVT/Desktop/laravel-docs-vn-master/eloquent-relationships.md",
+		"/C/Users/qa11.HANSOLLVT/Desktop/laravel-docs-vn-master/artisan.md",
+		"/C/xampp/htdocs/5s/storage/framework/views/0f121e0762e1c2e2baa497696980f99a",
+		"/C/xampp/htdocs/5s/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php",
+		"/C/xampp/htdocs/5s/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php",
+		"/C/Users/qa11.HANSOLLVT/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/xampp/htdocs/5s/5s-project.sublime-workspace",
+		"/C/xampp/htdocs/5s/app/Http/Requests/SubsectionRequest.php",
+		"/C/Users/qa11.HANSOLLVT/Desktop/laravel framework/Admin Templates/AdminLTE-master/pages/forms/general.html",
+		"/C/xampp/htdocs/5s/app/User.php",
+		"/C/xampp/htdocs/5s/database/migrations/2017_04_04_013225_create_sections_table.php",
+		"/C/xampp/htdocs/5s/database/migrations/2017_04_04_021244_create_details_table.php",
+		"/C/xampp/htdocs/5s/database/migrations/2017_04_04_043202_create_subsections_table.php",
+		"/C/xampp/htdocs/5s/database/migrations/2017_04_02_231158_create_factories_table.php",
+		"/C/xampp/htdocs/5s/database/migrations/2017_04_03_091834_create_departments_table.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/pages/index.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/pages/header.blade.php",
+		"/C/xampp/htdocs/5s/config/app.php",
+		"/C/xampp/htdocs/5s/app/Http/Controllers/PagesController.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/pages/pages.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/pages/modal.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/pages/codescript.blade.php",
+		"/E/Website/Admin Template/AdminLTE-master/pages/forms/general.html",
+		"/E/Website/Admin Template/AdminLTE-master/pages/tables/simple.html",
+		"/E/Website/Admin Template/AdminLTE-master/index2.html",
+		"/C/xampp/htdocs/5s/resources/views/admin/pages/footer.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/pages/script.blade.php",
+		"/C/xampp/htdocs/5s/.env",
+		"/C/xampp/htdocs/5s/resources/views/admin/index.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/header.blade.php",
+		"/C/Users/qa11.HANSOLLVT/Desktop/pages/index.blade.php",
+		"/E/Website/Admin Template/AdminLTE-master/index.html",
+		"/C/xampp/htdocs/5s/resources/views/admin/menu.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/admin/script.blade.php",
+		"/C/xampp/htdocs/5s/resources/views/app.blade.php",
+		"/C/xampp/htdocs/5s/index.php",
+		"/C/xampp/htdocs/5s/config/database.php",
+		"/C/xampp/htdocs/5s/composer.json",
+		"/C/xampp/htdocs/laravel/app/Http/routes.php",
+		"/C/xampp/htdocs/laravel/resources/views/restful/edit.blade.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/HocSinhController.php",
+		"/C/xampp/htdocs/laravel/resources/views/restful/list.blade.php",
+		"/C/xampp/htdocs/laravel/composer.json",
+		"/C/xampp/htdocs/laravel/config/app.php",
+		"/C/xampp/htdocs/laravel/resources/views/login/login.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/restful/add.blade.php",
+		"/C/xampp/htdocs/laravel/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/laravel/app/Images.php",
+		"/C/xampp/htdocs/laravel/database/migrations/2017_03_31_082133_create_hoc_sinhs_table.php",
+		"/C/xampp/htdocs/laravel/app/HocSinh.php",
+		"/C/xampp/htdocs/laravel/resources/views/app.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/views/master.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/views/layout.blade.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/laravel/app/User.php",
+		"/E/Website/PHP Framework/Laravel/laravel-master/app/User.php",
+		"/C/xampp/htdocs/laravel/app/Http/Requests/ThanhVienRequest.php",
+		"/C/xampp/htdocs/laravel/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/laravel/config/auth.php",
+		"/C/xampp/htdocs/laravel/app/Http/Requests/LoginRequest.php",
+		"/C/xampp/htdocs/laravel/app/Users.php",
+		"/C/xampp/htdocs/laravel/app/Http/Controllers/ThanhVienController.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'));\n",
+			");\n",
+			"zend_extension",
+			"Section",
+			"DetailController",
+			"Fact_Name",
+			"admin.Detail.list",
+			"['Detail'=>",
+			"$fact",
+			"Factory",
+			"Section",
+			"department",
+			"Dept_Name",
+			"Section",
+			"form",
+			"Edit Fac",
+			"add",
+			"href=\"../../",
+			"src=\"../../",
+			"href=\"../../",
+			"src=\"../../",
+			"src=\"{{ asset('public/admin/",
+			"src=\"",
+			"<img src=\"",
+			"<img src=\"dist",
+			"<img src=\"",
+			"view",
+			"redirect",
+			"redirect()",
+			"cgi.force_redirect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t\t\t\t\t\n",
+			"subsection",
+			"SubsectionController",
+			"Detail_Content",
+			"admin.detail.list",
+			"['detail'=>",
+			"$detail",
+			"Detail",
+			"section",
+			"Sect_Name",
+			"href=\"{{ asset('public/admin_asset/') }}",
+			"src=\"{{ asset('public/admin_asset/') }}",
+			"href=\"{{ asset('public/admin_asset/') }}",
+			"src=\"{{ asset('public/admin_asset/') }}",
+			"src=\"{{ asset('public/admin_asset/",
+			"src=\"{{ asset('public/admin_asset/') }}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "5s-project.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/Subsect_Dept_DetailController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/Fact_SectController.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2070.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/admin/subsect_dept_detail/list.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1278.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 619.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "5s-project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"resources\\views\\admin\\subsect_dept_detail\\list.blade.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"list.blade",
+				"resources\\views\\admin\\subsect_dept_detail\\list.blade.php"
+			],
+			[
+				"sub",
+				"app\\Subsect_Dept_Detail.php"
+			],
+			[
+				"add.blade",
+				"resources\\views\\admin\\subsect_dept_detail\\add.blade.php"
+			],
+			[
+				"sidebar",
+				"resources\\views\\admin\\pages\\sidebar.blade.php"
+			],
+			[
+				"master",
+				"resources\\views\\admin\\master.blade.php"
+			],
+			[
+				"sidebar.bla",
+				"resources\\views\\admin\\pages\\sidebar.blade.php"
+			],
+			[
+				"subsec",
+				"app\\Http\\Controllers\\SubsectionController.php"
+			],
+			[
+				"fact_sectcontroller",
+				"app\\Http\\Controllers\\Fact_SectController.php"
+			],
+			[
+				"subsectioncontroller",
+				"app\\Http\\Controllers\\SubsectionController.php"
+			],
+			[
+				"detailcontroller",
+				"app\\Http\\Controllers\\DetailController.php"
+			],
+			[
+				"sectioncontroller",
+				"app\\Http\\Controllers\\SectionController.php"
+			],
+			[
+				"departmentcontroller",
+				"app\\Http\\Controllers\\DepartmentController.php"
+			],
+			[
+				"factorycontroller",
+				"app\\Http\\Controllers\\FactoryController.php"
+			],
+			[
+				"sectioncon",
+				"app\\Http\\Controllers\\SectionController.php"
+			],
+			[
+				"section",
+				"app\\Http\\Controllers\\SectionController.php"
+			],
+			[
+				"fa",
+				"app\\Http\\Controllers\\FactoryController.php"
+			],
+			[
+				"subsectionre",
+				"app\\Http\\Requests\\SubsectionRequest.php"
+			],
+			[
+				"subsecti",
+				"app\\Http\\Controllers\\SubsectionController.php"
+			],
+			[
+				"list.blade.php",
+				"resources\\views\\admin\\subsection\\list.blade.php"
+			],
+			[
+				"fac",
+				"app\\Http\\Controllers\\FactoryController.php"
+			],
+			[
+				"pagescontroller",
+				"app\\Http\\Controllers\\PagesController.php"
+			],
+			[
+				"departmentre",
+				"app\\Http\\Requests\\DepartmentRequest.php"
+			],
+			[
+				"factoryre",
+				"app\\Http\\Requests\\FactoryRequest.php"
+			],
+			[
+				"sectionre",
+				"app\\Http\\Requests\\SectionRequest.php"
+			],
+			[
+				"factory",
+				"app\\Http\\Controllers\\FactoryController.php"
+			],
+			[
+				"de",
+				"app\\Http\\Controllers\\DepartmentController.php"
+			],
+			[
+				"depa",
+				"app\\Http\\Controllers\\DepartmentController.php"
+			],
+			[
+				"edit",
+				"resources\\views\\admin\\department\\edit.blade.php"
+			],
+			[
+				"factoryc",
+				"app\\Http\\Controllers\\FactoryController.php"
+			],
+			[
+				"departmentc",
+				"app\\Http\\Controllers\\DepartmentController.php"
+			],
+			[
+				"depart",
+				"app\\Department.php"
+			],
+			[
+				"side",
+				"resources\\views\\admin\\pages\\sidebar.blade.php"
+			],
+			[
+				"factoryco",
+				"app\\Http\\Controllers\\FactoryController.php"
+			],
+			[
+				"sidebar.blade",
+				"resources\\views\\admin\\pages\\sidebar.blade.php"
+			],
+			[
+				"factorycon",
+				"app\\Http\\Controllers\\FactoryController.php"
+			],
+			[
+				"routecol",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteCollection.php"
+			],
+			[
+				"dang",
+				"resources\\views\\form\\dangky.blade.php"
+			],
+			[
+				"routes.php",
+				"app\\Http\\routes.php"
+			],
+			[
+				"composer.json",
+				"composer.json"
+			],
+			[
+				"data",
+				"config\\database.php"
+			],
+			[
+				".env",
+				".env.example"
+			],
+			[
+				"sub.bla",
+				"resources\\views\\views\\sub.blade.php"
+			],
+			[
+				"views",
+				"resources\\views\\views\\sub.blade.php"
+			],
+			[
+				"controller",
+				"app\\Http\\Controllers\\WelcomeController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"117":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"119":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"162":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"93":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"99":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
